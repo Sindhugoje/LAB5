@@ -9,7 +9,6 @@ Follow these steps to clone and run the project on your local machine:
    ```bash
    git clone https://github.com/Sindhugoje/LAB5
    cd Lab5
-   cd helloworldProject
    ```
 
 2. **Install Django:**
